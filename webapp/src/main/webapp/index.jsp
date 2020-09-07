@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello Welcome to Orange Collections </h1>
+<h2> Where Quality meets budget </h2>
+<h2> Less money more collections </h2>
+<h3> Hope you grab the oportunity </h3>
