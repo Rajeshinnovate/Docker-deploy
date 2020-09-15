@@ -5,7 +5,7 @@ node {
    stage('SCM Checkout'){
     // Clone repo
 	git branch: 'master', 
-	credentialsId: 'github', 
+	//credentialsId: 'github', 
 	url: 'https://github.com/Rajeshinnovate/Docker-deploy.git'
    
    }
